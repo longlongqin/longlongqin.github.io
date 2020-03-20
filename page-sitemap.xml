@@ -8,15 +8,15 @@
     </url>
     
     <url>
-        <loc>https://www.longlongqin.top/friends/</loc>
-        <lastmod>2020-03-19T10:16:45.970Z</lastmod>
+        <loc>https://www.longlongqin.top/%25E5%25AD%25A6%25E4%25B9%25A0%25E7%25AC%2594%25E8%25AE%25B0/</loc>
+        <lastmod>2020-03-20T15:48:35.821Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://www.longlongqin.top/%25E5%25AD%25A6%25E4%25B9%25A0%25E7%25AC%2594%25E8%25AE%25B0/</loc>
-        <lastmod>2020-03-18T13:37:15.526Z</lastmod>
+        <loc>https://www.longlongqin.top/friends/</loc>
+        <lastmod>2020-03-20T15:04:08.842Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -36,7 +36,7 @@
     </url>
     
     <url>
-        <loc>https://www.longlongqin.top/mybook/</loc>
+        <loc>https://www.longlongqin.top/categories/</loc>
         <lastmod>2020-03-15T14:08:19.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -50,7 +50,14 @@
     </url>
     
     <url>
-        <loc>https://www.longlongqin.top/categories/</loc>
+        <loc>https://www.longlongqin.top/tags/</loc>
+        <lastmod>2020-03-15T14:08:19.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.longlongqin.top/mybook/</loc>
         <lastmod>2020-03-15T14:08:19.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -58,13 +65,6 @@
     
     <url>
         <loc>https://www.longlongqin.top/projects/</loc>
-        <lastmod>2020-03-15T14:08:19.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.longlongqin.top/tags/</loc>
         <lastmod>2020-03-15T14:08:19.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
