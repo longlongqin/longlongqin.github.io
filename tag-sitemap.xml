@@ -4,7 +4,14 @@
 
     <url>
         <loc>https://www.longlongqin.top/tags/C/</loc>
-        <lastmod>2020-03-18T16:41:39.616Z</lastmod>
+        <lastmod>2020-03-19T19:10:39.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.longlongqin.top/tags/%25E5%2587%25B8%25E5%258C%2585/</loc>
+        <lastmod>2020-03-19T19:00:12.583Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -61,20 +68,6 @@
     <url>
         <loc>https://www.longlongqin.top/tags/%25E8%25AE%25A1%25E7%25AE%2597%25E5%2587%25A0%25E4%25BD%2595/</loc>
         <lastmod>2020-03-17T08:43:00.307Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.longlongqin.top/tags/%25E5%2587%25B8%25E5%258C%2585/</loc>
-        <lastmod>2020-03-17T08:42:49.577Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.longlongqin.top/tags/%25E3%2580%258A%25E8%25AE%25A1%25E7%25AE%2597%25E5%2587%25A0%25E4%25BD%2595%25E3%2580%258B/</loc>
-        <lastmod>2020-03-17T08:42:26.159Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
