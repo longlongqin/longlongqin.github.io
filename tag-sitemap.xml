@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://www.longlongqin.top/tags/C-C/</loc>
+        <lastmod>2020-04-01T12:52:56.721Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://www.longlongqin.top/tags/%25E3%2580%258A%25E8%25AE%25A1%25E7%25AE%2597%25E6%259C%25BA%25E7%25A7%2591%25E5%25AD%25A6%25E9%2580%259F%25E6%2588%2590%25E8%25AF%25BE%25E3%2580%258B/</loc>
         <lastmod>2020-04-01T02:49:13.858Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -12,13 +19,6 @@
     <url>
         <loc>https://www.longlongqin.top/tags/hexo%25E6%2598%25BE%25E7%25A4%25BApdf/</loc>
         <lastmod>2020-04-01T02:37:01.827Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.longlongqin.top/tags/C-C/</loc>
-        <lastmod>2020-03-31T13:37:21.441Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
