@@ -8,22 +8,36 @@
     </url>
 
     <url>
-        <loc>https://www.longlongqin.top/categories/OJ/</loc>
-        <lastmod>2020-04-13T10:24:02.448Z</lastmod>
+        <loc>https://www.longlongqin.top/categories/%25E5%25AE%259E%25E7%2594%25A8%25E6%258A%2580%25E5%25B7%25A7/</loc>
+        <lastmod>2020-04-13T15:26:28.160Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.longlongqin.top/categories/%25E9%2585%258D%25E7%25BD%25AE/</loc>
+        <lastmod>2020-04-13T15:21:10.261Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.longlongqin.top/categories/%25E5%25AD%25A6%25E4%25B9%25A0%25E7%25AC%2594%25E8%25AE%25B0/C-C/</loc>
-        <lastmod>2020-04-13T09:43:38.120Z</lastmod>
+        <lastmod>2020-04-13T15:11:02.517Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://www.longlongqin.top/categories/%25E5%25AD%25A6%25E4%25B9%25A0%25E7%25AC%2594%25E8%25AE%25B0/</loc>
-        <lastmod>2020-04-13T09:43:38.120Z</lastmod>
+        <lastmod>2020-04-13T15:11:02.517Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.longlongqin.top/categories/OJ/</loc>
+        <lastmod>2020-04-13T10:24:02.448Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
